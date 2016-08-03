@@ -5,7 +5,7 @@ Python script to notify song information of Radio Nikkei 2 (RN2) for MacOSX
 ### Python and Libraries
 
   - Python 2.7 (tested in v2.7.10)
-  - pytz
+  - pytz (tested in v2013.7)
 
 ### Notifier
 
@@ -16,7 +16,7 @@ Python script to notify song information of Radio Nikkei 2 (RN2) for MacOSX
 
 ## Usage
 
-Run script in terminal.
+Run script in terminal.  
 `$ ./radiko_rn2_notifier.py`
 
 The script displays song information for an hour.
