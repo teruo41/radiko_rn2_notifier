@@ -20,3 +20,7 @@ Run script in terminal.
 `$ ./radiko_rn2_notifier.py`
 
 The script displays song information for an hour.
+
+## See also
+
+  - [ラジオ日経第２の曲情報を Mac の通知センターに通知する (in Japanese)](https://www8281uo.sakura.ne.jp/blog/?p=204)
