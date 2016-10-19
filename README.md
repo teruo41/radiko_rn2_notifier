@@ -9,7 +9,7 @@ Python script to notify song information of Radio Nikkei 2 (RN2) for MacOSX
 
 ### Notifier
 
-  - terminal-notifier (tested in v1.6.3)  
+  - terminal-notifier (tested >= v1.6.3)  
     (https://github.com/alloy/terminal-notifier)  
     It is also available from Homebrew  
     `$ brew install terminal-notifier`
